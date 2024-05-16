@@ -6,8 +6,11 @@ int main(void)
 {
   printf("hello wrold\n");
 
-  printf("xixi");
 
+  clg
+    gsjg
+    gsjg
+  gsjg
 
   return 0;
 }
